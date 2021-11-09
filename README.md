@@ -1,6 +1,6 @@
 # :rocket: Android-Roadmap 
 <p align="center">
-  <img src="img/android1.jpeg">
+  <img src="android1.jpeg">
 </p>   
 This road-map for android development that can help you to improve your skills with very recommended articles and other resources. 
 
@@ -8,7 +8,7 @@ This road-map for android development that can help you to improve your skills w
 ## :cyclone: What about android as operating system(OS): 
 
 <p align="center">
-  <img src="img/android2.jpeg" width="650" >
+  <img src="android2.jpeg" width="650" >
 </p> 
 
 Android is a mobile operating system based on a modified version of the Linux kernel and other open source software.   
@@ -34,7 +34,7 @@ Android is a mobile operating system based on a modified version of the Linux ke
 
 ## Learn java: (Due to 3 or 4 weeks)
 <p align="center">
-  <img src="img/java.png" width="650" >
+  <img src="java.png" width="650" >
 </p>   
 
 #### :clipboard: Resources: `choose only one resource (Arabic or english)`     
@@ -71,7 +71,7 @@ OR
 ## Basic level:
 Now you are ready to build user interface using xml and write some java code at android studio. 
 <p align="center">
-  <img src="img/ui.png" width="650">
+  <img src="ui.png" width="650">
 </p>   
 
 #### :clipboard: Resources:   
@@ -95,7 +95,7 @@ After you have learned to use Relative and Linear layout.. there is another amaz
 
 ### Database in android:
 <p align="center">
-  <img src="img/rdatabase.png" width="450">
+  <img src="rdatabase.png" width="450">
 </p>   
 In android world.. the database commes from different sources (Local & Remote).   
 
@@ -109,7 +109,7 @@ In android world.. the database commes from different sources (Local & Remote).
 Before that you should learn an important view called recycle view.. Why?    
 Most of android apps need to display a list of any type of data for users so the best way to handle that using recycler view. 
 <p align="center">
-  <img src="img/rv.png" width="650">
+  <img src="rv.png" width="650">
 </p>
 
 #### :clipboard: Resources:   
@@ -152,7 +152,7 @@ Coding in flow.
 
 #### Now you need to learn some thing awesome called (Material design)
 <p align="center">
-  <img src="img/material.png" width="500">
+  <img src="material.png" width="500">
 </p> 
 
 Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Backed by open-source code, ...
@@ -170,7 +170,7 @@ Advanced Android App Development.
 
 ### After that I think you are ready to learn kotlin:
 <p align="center">
-  <img src="img/kt.jpeg" width="650">
+  <img src="kt.jpeg" width="650">
 </p> 
 
 #### :clipboard: Resources:   
