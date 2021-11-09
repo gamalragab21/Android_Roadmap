@@ -194,6 +194,13 @@ Get hands dirty with Android Jet-pack.
 
 **:point_right: `Go a head and build a project and use the tools that you learned in the previous levels`**
 
+## Best channels for android 
+ * [coding with nerds](https://www.youtube.com/c/codingwithnerds)
+ * [Philipp Lackner](https://www.youtube.com/c/PhilippLackner)
+ * [Coding in Flow](https://www.youtube.com/c/CodinginFlow)
+ * [Coding With Tea](https://www.youtube.com/c/CodingWithTea)
+ * [Android Developers](https://www.youtube.com/c/AndroidDevelopers)
+ 
 
 ## Advanced part 2:
 - Now, you need to know more about retrofit and it's customization.
